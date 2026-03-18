@@ -88,3 +88,7 @@ Perfecto para realizar line‑art, vinilos, plantillas, mandalas y dibujos estil
     ⚠ herramienta correctamente medida
     
     ⚠ movimientos sin blend en bajadas/subidas
+
+# Imagen demostración
+<img width="1440" height="856" alt="image" src="https://github.com/user-attachments/assets/ac5c8c34-2d2f-48bc-bb89-0f28289daaf0" />
+
