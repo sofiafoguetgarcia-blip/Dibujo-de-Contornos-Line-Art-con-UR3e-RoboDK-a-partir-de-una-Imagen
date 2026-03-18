@@ -6,17 +6,28 @@ Imagen → bordes (Canny) → contornos → simplificación → trayectorias →
 
 Perfecto para realizar line‑art, vinilos, plantillas, mandalas y dibujos estilizados.
 
-🚀 Funcionalidades
+# 🚀 Funcionalidades
+
 ✔ Carga una imagen desde disco
+
 ✔ La convierte a bordes mediante Canny
+
 ✔ Limpia trazos con dilatación morfológica
+
 ✔ Extrae todos los contornos con OpenCV
+
 ✔ Filtra contornos demasiado grandes (marcos)
+
 ✔ Simplifica trayectorias con Douglas‑Peucker
+
 ✔ Reescala manteniendo proporciones
+
 ✔ Centra el dibujo en un Target de RoboDK
+
 ✔ Control del robot (velocidad, aceleración, blend, alturas)
+
 ✔ Genera un dibujo ordenado, suave y seguro
+
 
 # Requisitos
   Python
