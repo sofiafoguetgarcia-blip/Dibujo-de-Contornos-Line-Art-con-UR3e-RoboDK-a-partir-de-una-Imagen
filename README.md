@@ -71,8 +71,16 @@ Perfecto para realizar line‑art, vinilos, plantillas, mandalas y dibujos estil
   Al final → vuelve a la posición original.
 
 # Principales parámetros editables
-    PythonIMAGE_PATH            = r"C:\...\mandala.jpg"MAX_ANCHO_MM          = 200.0ALTURA_Z_DIBUJO       = 15.0ALTURA_Z_SUBIDA       = ALTURA_Z_DIBUJO + 30.0REDONDEO_DIBUJO_MM    = 2.0EPSILON_SIMPLIFY_PX   = 2.0DECIMATE_STEP         = 1VEL_MM_S              = 60.0ACEL_MM_S2            = 200.0Mostrar más líneas
-
+    IMAGE_PATH            = r"C:\...\mandala.jpg"
+    MAX_ANCHO_MM          = 200.0
+    ALTURA_Z_DIBUJO       = 15.0
+    ALTURA_Z_SUBIDA       = ALTURA_Z_DIBUJO + 30.0
+    REDONDEO_DIBUJO_MM    = 2.0
+    EPSILON_SIMPLIFY_PX   = 2.0
+    DECIMATE_STEP         = 1
+    VEL_MM_S              = 60.0
+    ACEL_MM_S2            = 200.0
+    
 # Ejecución
   Shellpython lineart_ur3e.pyMostrar más líneas
   RoboDK debe estar abierto y con el UR3e cargado.
