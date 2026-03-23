@@ -103,3 +103,10 @@ Perfecto para realizar line‑art, vinilos, plantillas, mandalas y dibujos estil
 # Imagen demostración
 <img width="1440" height="856" alt="image" src="https://github.com/user-attachments/assets/ac5c8c34-2d2f-48bc-bb89-0f28289daaf0" />
 
+# Video
+
+
+
+https://github.com/user-attachments/assets/8639f018-6ce1-4559-a1a7-9fc44ddc1ad6
+
+
